@@ -5,7 +5,7 @@
 - 💬 Ask me about tech related stuff
 - 📫 Let's connect on : [@LinkedIn](https://www.linkedin.com/in/niteshnandan/), [@Twitter](https://twitter.com/TryNitesh)
 
-[!stats](https://github-readme-stats.vercel.app/api?username=Nitesh-Nandan&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Nitesh-Nandan&show_icons=true&theme=tokyonight" />
 
 <!--
 **Nitesh-Nandan/Nitesh-Nandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
